@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "consol-practise-app/1.0.0": {
+        "runtime": {
+          "consol-practise-app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consol-practise-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

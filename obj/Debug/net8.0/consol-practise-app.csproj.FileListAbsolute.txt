@@ -1,0 +1,14 @@
+E:\My-personnel-project\consol-practise-app\bin\Debug\net8.0\consol-practise-app.exe
+E:\My-personnel-project\consol-practise-app\bin\Debug\net8.0\consol-practise-app.deps.json
+E:\My-personnel-project\consol-practise-app\bin\Debug\net8.0\consol-practise-app.runtimeconfig.json
+E:\My-personnel-project\consol-practise-app\bin\Debug\net8.0\consol-practise-app.dll
+E:\My-personnel-project\consol-practise-app\bin\Debug\net8.0\consol-practise-app.pdb
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.GeneratedMSBuildEditorConfig.editorconfig
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.AssemblyInfoInputs.cache
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.AssemblyInfo.cs
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.csproj.CoreCompileInputs.cache
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.dll
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\refint\consol-practise-app.dll
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.pdb
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.genruntimeconfig.cache
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\ref\consol-practise-app.dll
