@@ -158,6 +158,7 @@ namespace consol_practise_app
 
             prev.next = null;
             Console.WriteLine("Node deleted from last");
+            Console.WriteLine("Gir test from mdjohircw");
         }
 
         // Delete at any location

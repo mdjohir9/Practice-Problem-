@@ -12,3 +12,4 @@ E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\refint\consol-pract
 E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.pdb
 E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.genruntimeconfig.cache
 E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\ref\consol-practise-app.dll
+E:\My-personnel-project\consol-practise-app\obj\Debug\net8.0\consol-practise-app.sourcelink.json

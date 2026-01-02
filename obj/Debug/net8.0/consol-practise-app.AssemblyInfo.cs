@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consol-practise-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616e22382751d213bae9b95b85f47504d17380b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("consol-practise-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consol-practise-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
